@@ -4,5 +4,7 @@ The project is still under progress
 git clone SSH key
 git add . or whatever 
 git commit -m "title"
-git push   \n
+git push
+
+
 ##These were just for my lack of memory (:
