@@ -11,4 +11,4 @@ git commit -m "title"
 git push
 
 
-##These were just for my lack of memory (:
+## These were just for my lack of memory (:
